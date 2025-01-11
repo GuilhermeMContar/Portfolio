@@ -1,0 +1,16 @@
+Os dois arquivos nesta pasta correspondem à atividades desenvolvidas durante a optativa "Introdução à Mineração de Dados" ofertada pelo professor
+Alexandre Checoli Choueri do curso de Engenharia de Produção da UFPR, cujo material completo pode ser encontrado no link abaixo:
+  https://alexandrechecoli.github.io/2-mindados/mindados.html
+A disciplina aborda toda a parte básica de Python, como estururas de listas, tuplas, dicionários, condicionais, laços de repetição e bibliotecas como datetime,
+pandas, numpy, matplotlib. Além disso, aborda os principios de mineração de dados como árvores de decisão, métodos de separação de dados em treino e teste e outros.
+A disciplina foi concluída no 2° semestre de 2024, com nota final de 95.
+
+ExercíciosAulas
+- Arquivo com todos os exercícios do material de aula explicados e resolvidos pelo aluno no decorrer da matéria;
+
+Calculadora_CustosProjetosInternos
+- Trabalho final da disciplina;
+- O projeto utiliza a lista de materiais de um projeto para realizar o cálculo de custo de conjuntos soldados, montados e projetos 
+  (basicamente são peças que são compostas de outras peças, cada uma com sua ressalva);
+- Para isso, toda a lógica utilizada na planilha de base é incorporada no código;
+- Mais detalhes sobre o projeto estão no arquivo.
