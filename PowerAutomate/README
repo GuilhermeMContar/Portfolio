@@ -1,0 +1,44 @@
+Cada pasta compreende um fluxo diferente do Power Automate com um vídeo explicativo e seu respectivo arquivo Zip, caso deseje importar o fluxo.
+Todos os fluxos foram desenvolvidos em um intervalo de um ano no estágio na empresa Infratel.
+
+
+CONTEÚDO
+
+INTEGRAÇÃO COM O MICROSOFT FORMS
+
+1 - Verificação de Chumbadores e Gabaritos
+-	Edição de registro específico no Excel
+-	Composição de arquivo HTML
+-	Envio de email com o arquivo HTML
+-	Salvamento de arquivo no OneDrive e Sharepoint
+-	Envio de Email com arquivo
+
+2 - Homologação de Documentos
+-	Envio de Email com múltiplos arquivos
+
+3 - Baixa de Materiais
+-	Criação de registro no Excel
+-	Edição de registro específico no Excel
+-	Conector Switch (Opções)
+-	Envio de Email específico para cada caso
+
+4 - Rastreio de Matéria Prima
+-	Obtenção de conteúdo de célula específica no Excel
+-	Criação de registro no Excel
+-	Pesquisa de arquivo no Sharepoint
+-	Exclusão de arquivo no Sharepoint
+-	Envio de Email
+
+INTEGRAÇÃO COM O POWERAPPS
+
+5 - Controle de RNC’s
+-	Variáveis opcionais
+-	Análise e Filtragem de JSON
+-	Criação de tabela em HTML
+-	Envio de Email
+
+6 - Controle de Galvanização
+-	Variáveis opcionais
+-	Análise de JSON com dois diferentes Schemas possíveis
+-	Criação de tabela em HTML
+-	Envio de Email
