@@ -1,0 +1,16 @@
+Cada pasta compreende um aplicativo diferente do PowerApps com um vídeo explicativo e seu respectivo arquivo Zip, caso deseje importar o aplicativo.
+Todos os aplicativos foram desenvolvidos em um intervalo de um ano durante o estágio na empresa Infratel.
+
+1 - CONTROLE DE RNCs
+Aplicativo desenvolvido para realizar a criação e edição de registros de não conformidade. Surgiu da necessidade de digitalizar todo o processo, que era realizado
+por meio de formulários impressos, o que gerava problemas com o manejo dos papéis e falta de fluidez das informações. Além disso, era necessário transcrever todas as
+informações do relatório para o Excel manualmente.
+
+2 - CHECKLIST DE TORRES
+Desenvolvido para realizar a checagem do material antes do envio para o campo. Surgiu da necessidade de digitalizar o processo, que antes dependia de 
+formulários impressos também. Optei por um aplicativo invés de um Microsoft Form por exemplo, dado que os checklists podiam ser iniciados em um dia e finalizados 
+em outro, Forms não possui a função de salvar formulários semi-preenchidos.
+
+3 - CONTROLE DE GALVANIZAÇÃO
+Desenvolvido para realizar o controle de envio e recebimento de materiais enviados para galvanização. Surgiu da necessidade de digitalizar o processo, que era
+realizado por formulários impressos e para conceder maior velocidade no fluxo de informações do processo, que é crítico em certos casos. 
