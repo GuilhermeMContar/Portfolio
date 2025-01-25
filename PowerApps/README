@@ -1,3 +1,4 @@
+PORTUGUÊS
 Cada pasta compreende um aplicativo diferente do PowerApps com um vídeo explicativo e seu respectivo arquivo Zip, caso deseje importar o aplicativo.
 Todos os aplicativos foram desenvolvidos em um intervalo de um ano durante o estágio na empresa Infratel.
 
@@ -14,3 +15,18 @@ em outro, Forms não possui a função de salvar formulários semi-preenchidos.
 3 - CONTROLE DE GALVANIZAÇÃO
 Desenvolvido para realizar o controle de envio e recebimento de materiais enviados para galvanização. Surgiu da necessidade de digitalizar o processo, que era
 realizado por formulários impressos e para conceder maior velocidade no fluxo de informações do processo, que é crítico em certos casos. 
+
+ENGLISH
+1 - NON-CONFORMITY RECORD CONTROL
+An application developed to create and edit non-conformity records. It was created to address the need to digitalize the entire process, which was previously
+carried out using printed forms. This led to issues with handling paperwork and a lack of information flow. Additionally, all report data had to be manually
+transcribed into Excel.
+
+2 - TOWER CHECKLIST
+Developed to check materials before being sent to the field. This application addressed the need to digitalize the process, which also relied on printed forms.
+I chose to create an app instead of using Microsoft Forms, for instance, because the checklists could be started one day and completed another, a feature
+Microsoft Forms does not support as it cannot save partially filled forms.
+
+3 - GALVANIZATION CONTROL
+Developed to manage the sending and receiving of materials sent for galvanization. The app was created to digitalize the process, which was previously
+handled using printed forms, and to improve the speed of information flow in this critical process.
