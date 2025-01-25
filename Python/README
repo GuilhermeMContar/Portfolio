@@ -1,0 +1,36 @@
+PORTUGUÊS
+Os dois arquivos nesta pasta correspondem à atividades desenvolvidas durante a optativa "Introdução à Mineração de Dados" ofertada pelo professor
+Alexandre Checoli Choueri do curso de Engenharia de Produção da UFPR, cujo material completo pode ser encontrado no link abaixo:
+  https://alexandrechecoli.github.io/2-mindados/mindados.html
+A disciplina aborda toda a parte básica de Python, como estururas de listas, tuplas, dicionários, condicionais, laços de repetição e bibliotecas como datetime,
+pandas, numpy, matplotlib. Além disso, aborda os principios de mineração de dados como árvores de decisão, métodos de separação de dados em treino e teste e outros.
+A disciplina foi concluída no 2° semestre de 2024, com nota final de 95.
+
+ExercíciosAulas
+- Arquivo com todos os exercícios do material de aula explicados e resolvidos pelo aluno no decorrer da matéria;
+
+Calculadora_CustosProjetosInternos
+- Trabalho final da disciplina;
+- O projeto utiliza a lista de materiais de um projeto para realizar o cálculo de custo de conjuntos soldados, montados e projetos 
+  (basicamente são peças que são compostas de outras peças, cada uma com sua ressalva);
+- Para isso, toda a lógica utilizada na planilha de base é incorporada no código;
+- Mais detalhes sobre o projeto estão no arquivo.
+
+ENGLISH
+The two files in this folder correspond to activities developed during the elective course "Introduction to Data Mining," offered by 
+Professor Alexandre Checoli Choueri of the Production Engineering program at UFPR. The complete material can be found at the following link:
+  https://alexandrechecoli.github.io/2-mindados/mindados.html
+The course covers the basic aspects of Python, such as list structures, tuples, dictionaries, conditionals, loops, and libraries like datetime,
+pandas, numpy, and matplotlib. In addition, it addresses the principles of data mining, including decision trees, methods for splitting data into
+training and testing sets, and more.
+The course was completed in the second semester of 2024, with a final grade of 95.
+
+ExercíciosAulas
+- A file containing all the exercises from the class material explained and solved by the student throughout the course.
+
+Calculadora_CustosProjetosInternos
+- Final project of the course;
+- The project uses the materials list of a project to calculate the cost of welded sets, assembled components, and projects 
+  (essentially, these are pieces made up of other pieces, each with its own specification);
+- The logic used in the base spreadsheet is incorporated into the code;
+- More details about the project can be found in the file.
